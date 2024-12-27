@@ -43,4 +43,4 @@ _"Empowering digital spaces, one line of code at a time."_
 
 # Snake Commit Progress
 
-![Snake commit progress](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/snake.gif)
+![Snake commit progress](https://github.com/afporiginal/snake-commit-afpl/blob/main/snake.gif)
