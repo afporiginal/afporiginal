@@ -6,7 +6,7 @@
 
 A Brazilian developer passionate about automating the ordinary, crafting immersive games, and building solutions that make a difference.  
 
----  
+---
 
 ## 🌟 **Who am I?**  
 
@@ -28,6 +28,14 @@ A Brazilian developer passionate about automating the ordinary, crafting immersi
 
 ---
 
+## 🐍 **Snake Game in Python**  
+
+Want to try my *Snake Game* built in Python? Check out the repository below:
+
+[Snake Game Repo](https://github.com/afporiginal/snake-game)
+
+---
+
 ## 🚀 **Mission Statement**  
 
 _"Empowering digital spaces, one line of code at a time."_  
@@ -39,8 +47,4 @@ _"Empowering digital spaces, one line of code at a time."_
 💻 **Discord**: `afploriginal`  
 📥 **Email**: [afploriginal.luz07@hotmail.com](mailto:afploriginal.luz07@hotmail.com)  
 
-> Creativity has no limits; let’s build something extraordinary! 🌌  
-
-# Snake Commit Progress
-
-![Snake commit progress](https://github.com/afporiginal/snake-commit-afpl/blob/main/snake.gif)
+> Creativity has no limits; let’s build something extraordinary! 🌌
