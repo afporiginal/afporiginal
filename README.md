@@ -30,7 +30,11 @@ A Brazilian developer passionate about automating the ordinary, crafting immersi
 
 ## 🐍 **Snake Game in Python**  
 
-Want to try my *Snake Game* built in Python? Check out the repository below:
+Check out this fun *Snake Game* I created in Python! You can play it locally on your machine by running the code from the repository.
+
+![Snake Game](https://raw.githubusercontent.com/afporiginal/snake-game/main/snake_game_demo.gif)  
+
+Want to try it? Here’s the link to the repository:
 
 [Snake Game Repo](https://github.com/afporiginal/snake-game)
 
