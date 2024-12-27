@@ -40,3 +40,6 @@ _"Empowering digital spaces, one line of code at a time."_
 📥 **Email**: [afploriginal.luz07@hotmail.com](mailto:afploriginal.luz07@hotmail.com)  
 
 > Creativity has no limits; let’s build something extraordinary! 🌌  
+
+![Snake eating "AFPL"](https://github.com/<seu-usuario>/snake-commit-afpl/blob/main/snake.svg)
+
