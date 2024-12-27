@@ -41,5 +41,3 @@ _"Empowering digital spaces, one line of code at a time."_
 
 > Creativity has no limits; let’s build something extraordinary! 🌌  
 
-![Snake eating "AFPL"](https://github.com/<seu-usuario>/snake-commit-afpl/blob/main/snake.svg)
-
