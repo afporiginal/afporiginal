@@ -42,10 +42,8 @@ _"Empowering digital spaces, one line of code at a time."_
 
 ---
 
-## 🌌 **Let’s Create Magic**  
-![Magic Code](https://media.giphy.com/media/T2fLO2aokJLaU/giphy.gif)
-
-Coding is like casting spells—every line has the potential to transform the digital world. Let’s innovate together! ✨
+## 🌟 **Let’s Create Magic** ✨  
+Coding is like casting spells—every line has the potential to transform the digital world. Let’s innovate together and bring ideas to life!
 
 ---
 
@@ -62,10 +60,7 @@ Coding is like casting spells—every line has the potential to transform the di
 
 > **"The future belongs to those who believe in the beauty of their dreams."** 🌟
 
-![Inspiration](https://media.giphy.com/media/FPymnvTZbYxFY/giphy.gif)
-
 ---
 
 ## 🚀 **Let’s Build Together!**  
 
-![Building GIF](https://media.giphy.com/media/13Hgw6pKqD2WJu/giphy.gif)
