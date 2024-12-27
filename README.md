@@ -34,27 +34,22 @@ _"Empowering digital spaces, one line of code at a time."_
 
 ---
 
-## 🌍 **Portfolio & Projects**
+## 🔥 **What Sets Me Apart?**  
 
-Here are a few of the projects I've worked on that show my passion for coding, game design, and creating innovative solutions:
-
-![Portfolio](https://media.giphy.com/media/9J7f4rWzA3fo2/giphy.gif)
-
-- **Roblox Games**: Designing immersive experiences that engage users and encourage creative thinking.
-- **Discord Bots**: Creating bots with advanced functionality, enhancing user experience and interaction in servers.
-- **Web Development**: Building responsive websites and interactive user interfaces that make the web more engaging.
-
----
-
-## 🔥 **What Sets Me Apart?**
-
-- 🌱 **Continuous Learning**: I’m always leveling up my skills to stay ahead in the ever-evolving tech world.
-- 🔗 **Problem Solver**: I enjoy breaking down complex issues into manageable chunks and finding the most efficient solutions.
+- 🌱 **Continuous Learning**: I’m always leveling up my skills to stay ahead in the ever-evolving tech world.  
+- 🔗 **Problem Solver**: I enjoy breaking down complex issues into manageable chunks and finding the most efficient solutions.  
 - ⚡ **Creative Thinker**: Whether it’s game mechanics, bot functionality, or app design, I think outside the box to deliver unique experiences.
 
 ---
 
-## 📬 **Let’s Connect**
+## 🌌 **Let’s Create Magic**  
+![Magic Code](https://media.giphy.com/media/T2fLO2aokJLaU/giphy.gif)
+
+Coding is like casting spells—every line has the potential to transform the digital world. Let’s innovate together! ✨
+
+---
+
+## 📬 **Let’s Connect**  
 
 💻 **Discord**: `afploriginal`  
 📥 **Email**: [afploriginal.luz07@hotmail.com](mailto:afploriginal.luz07@hotmail.com)  
@@ -63,6 +58,14 @@ Here are a few of the projects I've worked on that show my passion for coding, g
 
 ---
 
-**Here’s a little something to remind you that the journey of innovation never stops:**
+## 💡 **Random Thoughts to Inspire**  
 
-![Endless Innovation](https://media.giphy.com/media/8vLln8RSdSyDY/giphy.gif)
+> **"The future belongs to those who believe in the beauty of their dreams."** 🌟
+
+![Inspiration](https://media.giphy.com/media/FPymnvTZbYxFY/giphy.gif)
+
+---
+
+## 🚀 **Let’s Build Together!**  
+
+![Building GIF](https://media.giphy.com/media/13Hgw6pKqD2WJu/giphy.gif)
