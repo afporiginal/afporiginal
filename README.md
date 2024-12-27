@@ -41,3 +41,6 @@ _"Empowering digital spaces, one line of code at a time."_
 
 > Creativity has no limits; let’s build something extraordinary! 🌌  
 
+# Snake Commit Progress
+
+![Snake commit progress](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/snake.gif)
