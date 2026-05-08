@@ -5,7 +5,7 @@
 <!-- ============================================= -->
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1&section=header&text=&fontSize=0" width="100%](https://cdn.discordapp.com/attachments/1287467685424402474/1502304530254266418/marin_kitagawa_sono_bisque_doll_png_render_by_marcopolo157_dgg94pj.png?ex=69ff399f&is=69fde81f&hm=489af28e8e628575cda0a1781271ab8e9aee47552b4f953e4f738c0905ed0eea)"/>
+<img src="[[https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1&section=header&text=&fontSize=0" width="100%](https://cdn.discordapp.com/attachments/1287467685424402474/1502304530254266418/marin_kitagawa_sono_bisque_doll_png_render_by_marcopolo157_dgg94pj.png?ex=69ff399f&is=69fde81f&hm=489af28e8e628575cda0a1781271ab8e9aee47552b4f953e4f738c0905ed0eea)](https://cdn.discordapp.com/attachments/1287467685424402474/1502304530254266418/marin_kitagawa_sono_bisque_doll_png_render_by_marcopolo157_dgg94pj.png?ex=69ff399f&is=69fde81f&hm=489af28e8e628575cda0a1781271ab8e9aee47552b4f953e4f738c0905ed0eea)"/>
 
 <br/>
 
