@@ -14,7 +14,7 @@
   ║  Troque COLE_O_LINK_DA_IMAGEM_AQUI pela URL                 ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
-<img src="[https://imgur.com/a/QowxHar](https://imgur.com/8d18L10)" width="280" alt="AFPL Avatar"/>
+<img src="https://imgur.com/a/QowxHar" width="280" alt="AFPL Avatar"/>
 
 <br/><br/>
 
