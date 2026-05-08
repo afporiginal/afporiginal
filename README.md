@@ -2,21 +2,12 @@
 
 <div align="center">
 
-<!-- 
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  👋 AVATAR / ANIME — Cole o link da sua imagem aqui         ║
-  ║                                                              ║
-  ║  Como pegar o link:                                          ║
-  ║  • Discord: envie a imagem → botão direito → "Copiar link"  ║
-  ║  • Imgur: arraste a imagem em imgur.com → copie o link       ║
-  ║  • Qualquer URL de imagem funciona!                          ║
-  ║                                                              ║
-  ║  Troque COLE_O_LINK_DA_IMAGEM_AQUI pela URL                 ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-<img src="https://github.com/afporiginal/afporiginal/blob/main/images/marin_kitagawa_sono_bisque_doll_png_render_by_marcopolo157_dgg94pj.png" width="280" alt="AFPL Avatar"/>
+<!-- AVATAR MARIN -->
+<a href="https://github.com/afporiginal">
+<img src="https://github.com/afporiginal/afporiginal/blob/main/images/%F0%9D%96%AC%F0%9D%96%BA%F0%9D%97%8B%F0%9D%97%82%F0%9D%97%87%20%F0%9D%96%AA%F0%9D%97%82%F0%9D%97%8D%F0%9D%96%BA%F0%9D%97%80%F0%9D%96%BA%F0%9D%97%90%F0%9D%96%BA%20%E2%9C%BF.webp?raw=true" width="150" alt="AFPL Avatar"/>
+</a>
 
-<br/><br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=👋+Fala!+Eu+sou+o+AFPL)](https://git.io/typing-svg)
 
@@ -75,23 +66,20 @@ class AFPL {
 </td>
 <td width="45%" valign="top" align="center">
 
-<br/>
+<br/><br/><br/>
 
-<!-- 
-  ╔══════════════════════════════════════════════════════╗
-  ║  🧊 RENDER 3D / IMAGEM LATERAL                      ║
-  ║  Cole o link de uma render do Blender ou qualquer    ║
-  ║  arte que te represente.                             ║
-  ║  Troque COLE_O_LINK_DA_RENDER_AQUI pela URL          ║
-  ╚══════════════════════════════════════════════════════╝
--->
-<img src="COLE_O_LINK_DA_RENDER_AQUI" width="380" alt="3D Render"/>
+<img src="https://raw.githubusercontent.com/afporiginal/afporiginal/main/images/marin_kitagawa_sono_bisque_doll_png_render_by_marcopolo157_dgg94pj.png" width="350" alt="Marin Kitagawa waving"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ✨ MARIN ATRAVESSANDO O DIVISOR ✨ -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40%">
+<img src="https://github.com/afporiginal/afporiginal/blob/main/images/Kitagawa_Marin-removebg-preview.png?raw=true" width="130" alt="Marin peace sign"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40%">
+</div>
 
 <!-- ================= TECH STACK ================= -->
 
@@ -176,16 +164,9 @@ class AFPL {
 <br/>
 
 <!-- 
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  🎨 GALERIA DE RENDERS 3D                                       ║
-  ║                                                                  ║
-  ║  Cole os links das suas renders do Blender.                      ║
-  ║  Troque cada COLE_LINK_RENDER_XX pela URL da imagem.             ║
-  ║                                                                  ║
-  ║  • Quer mais ou menos imagens? Copie ou delete um bloco <td>.    ║
-  ║  • Quer só 2? Delete a segunda <tr> inteira.                     ║
-  ║  • Quer só 1? Delete a tabela toda e use um <img> simples.       ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  🎨 GALERIA DE RENDERS 3D
+  Cole os links das suas renders do Blender.
+  Troque cada COLE_LINK_RENDER_XX pela URL da imagem.
 -->
 
 <table>
@@ -213,7 +194,12 @@ class AFPL {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ✨ MARIN ATRAVESSANDO O DIVISOR ✨ -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40%">
+<img src="https://github.com/afporiginal/afporiginal/blob/main/images/Kitagawa_Marin-removebg-preview.png?raw=true" width="130" alt="Marin peace sign"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40%">
+</div>
 
 <!-- ================= WHAT DEFINES ME ================= -->
 
@@ -321,7 +307,12 @@ Em **evolução constante** — de código a modelagem 3D, sempre subindo de ní
 
 > ⚠️ *Instruções de setup no final deste README (seção colapsável).*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ✨ MARIN ATRAVESSANDO O DIVISOR ✨ -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40%">
+<img src="https://github.com/afporiginal/afporiginal/blob/main/images/Kitagawa_Marin-removebg-preview.png?raw=true" width="130" alt="Marin peace sign"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40%">
+</div>
 
 <!-- ================= PROJECTS ================= -->
 
@@ -432,38 +423,23 @@ jobs:
 </details>
 
 <details>
-<summary>🖼️ <b>Como colocar suas imagens (super fácil)</b></summary>
+<summary>🖼️ <b>Como adicionar suas renders do Blender</b></summary>
 
 <br/>
 
-### Método mais fácil — Link do Discord
-1. Envie a imagem em **qualquer canal** do Discord
-2. **Botão direito** na imagem → **"Copiar link"**
-3. Você vai ter uma URL tipo: `https://cdn.discordapp.com/attachments/123/456/imagem.png`
-4. Cole essa URL no lugar de `COLE_O_LINK_...` no README
-5. Pronto!
-
-### Alternativa — Imgur
-1. Acesse [imgur.com](https://imgur.com)
-2. Arraste sua imagem na página
-3. Clique com **botão direito** na imagem → **"Copiar endereço da imagem"**
-4. Cole no README
-
-### ⚠️ Importante sobre links do Discord
-Links do Discord **expiram** depois de um tempo. Se a imagem parar de funcionar:
-- Use o **Imgur** (não expira nunca)
-- Ou envie a imagem num canal que você **não vai deletar**
-
-### Onde estão os espaços no README
-Procure por estes textos e substitua pela URL:
+Na seção **🧊 Blender & 3D Art**, substitua os links:
 
 | Procurar por | O que colocar |
 |---|---|
-| `COLE_O_LINK_DA_IMAGEM_AQUI` | Seu anime/avatar dando oi 👋 |
-| `COLE_O_LINK_DA_RENDER_AQUI` | Uma render 3D do Blender 🧊 |
-| `COLE_LINK_RENDER_01` | Render 3D #1 da galeria 🎨 |
-| `COLE_LINK_RENDER_02` | Render 3D #2 da galeria |
-| `COLE_LINK_RENDER_03` | Render 3D #3 da galeria |
-| `COLE_LINK_RENDER_04` | Render 3D #4 da galeria |
+| `COLE_LINK_RENDER_01` | Link da sua render 3D #1 |
+| `COLE_LINK_RENDER_02` | Link da sua render 3D #2 |
+| `COLE_LINK_RENDER_03` | Link da sua render 3D #3 |
+| `COLE_LINK_RENDER_04` | Link da sua render 3D #4 |
+
+**Como pegar o link:**
+1. Suba a imagem na pasta `images/` do repo `afporiginal/afporiginal`
+2. Clique na imagem → copie a URL da barra de endereço
+3. Adicione `?raw=true` no final
+4. Cole no README!
 
 </details>
