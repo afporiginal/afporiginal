@@ -165,29 +165,6 @@ const afpl = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="#">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=afporiginal&repo=afporiginal&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF" alt="Repo"/>
-</a>
-
-</div>
-
-<br/>
-
-| 🎯 Project | 📝 Description | 🔧 Tech | 📊 Status |
-|---|---|---|---|
-| ⚔️ **Roblox RPG Engine** | Complete RPG game engine with inventory, quests & combat | `Lua` `Roblox Studio` | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
-| 🤖 **Discord Bot Framework** | Advanced modular bot with AI-powered moderation | `Python` `Discord.py` `PostgreSQL` | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
-| ⚡ **Automation Suite** | Python scripts for web scraping & data processing | `Python` `Selenium` | ![Completed](https://img.shields.io/badge/-Completed-3b82f6?style=flat-square) |
-| 📊 **Web Dashboard** | Real-time analytics dashboard with dynamic charts | `JavaScript` `Node.js` | ![Completed](https://img.shields.io/badge/-Completed-3b82f6?style=flat-square) |
-| 🏟️ **Multiplayer Arena** | Fast-paced PvP arena game with ranking system | `Lua` `Networking` | ![WIP](https://img.shields.io/badge/-In_Progress-eab308?style=flat-square) |
-| 🎵 **Music Bot Plus** | Feature-rich Discord music bot with audio filters | `Python` `FFmpeg` `YouTube API` | ![Active](https://img.shields.io/badge/-Active-22c55e?style=flat-square) |
-
-<br/>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
@@ -241,45 +218,3 @@ const afpl = {
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
----
-
-<details>
-<summary>🐍 <b>Como configurar a Snake Animation (GitHub Action)</b></summary>
-
-<br/>
-
-1. Crie o repositório `afporiginal/afporiginal` (se ainda não existe)
-2. Vá em **Actions** → **New Workflow** → **set up a workflow yourself**
-3. Cole o seguinte código no arquivo `main.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: afporiginal
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. Faça commit e vá em **Actions** → **Generate Snake Animation** → **Run workflow**
-5. Pronto! A snake vai aparecer automaticamente no seu perfil 🐍
-
-</details>
