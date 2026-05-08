@@ -2,48 +2,56 @@
 
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/afporiginal/afporiginal/main/images/%F0%9D%96%AC%F0%9D%96%BA%F0%9D%97%8B%F0%9D%97%82%F0%9D%97%87%20%F0%9D%96%AA%F0%9D%97%82%F0%9D%97%8D%F0%9D%96%BA%F0%9D%97%80%F0%9D%96%BA%F0%9D%97%90%F0%9D%96%BA%20%E2%9C%BF.webp&w=150&h=150&fit=cover&mask=circle&output=png" width="150" alt="AFPL"/>
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=E8788A&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=Hey!+I'm+AFPL+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=800&color=8b949e&center=true&vCenter=true&repeat=true&random=false&width=620&height=25&lines=Python+%F0%9F%90%8D+%7C+Lua+%F0%9F%8C%99+%7C+Blender+%F0%9F%A7%8A+%7C+Roblox+%F0%9F%8E%AE+%7C+Discord+Bots+%F0%9F%A4%96)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/afporiginal/afporiginal/main/images/marin_kitagawa_sono_bisque_doll_png_render_by_marcopolo157_dgg94pj.png" width="240" alt="hey"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=afporiginal&style=flat-square&color=e8788a&labelColor=1a1b27&label=views" alt="Views"/>
+<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/afporiginal/afporiginal/main/images/%F0%9D%96%AC%F0%9D%96%BA%F0%9D%97%8B%F0%9D%97%82%F0%9D%97%87%20%F0%9D%96%AA%F0%9D%97%82%F0%9D%97%8D%F0%9D%96%BA%F0%9D%97%80%F0%9D%96%BA%F0%9D%97%90%F0%9D%96%BA%20%E2%9C%BF.webp&w=150&h=150&fit=cover&mask=circle&output=png" width="50" alt=""/>  &nbsp; [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=E8788A&center=true&vCenter=true&repeat=true&random=false&width=380&height=40&lines=Hey!+I'm+AFPL+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2500&pause=800&color=8b949e&center=true&vCenter=true&repeat=true&random=false&width=550&height=22&lines=Python+%F0%9F%90%8D+%7C+Lua+%F0%9F%8C%99+%7C+Blender+%F0%9F%A7%8A+%7C+Roblox+%F0%9F%8E%AE+%7C+Discord+Bots+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=afporiginal&style=flat-square&color=e8788a&labelColor=1a1b27&label=views" alt=""/>
 
 </div>
 
 ---
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+<div align="center">
 
-### 👋 About
-
-```js
-const afpl = {
-    name:     "AFPL",
-    aka:      "afporiginal",
-    from:     "Brazil 🇧🇷",
-    code:     ["Python", "Lua", "JavaScript"],
-    tools:    ["Blender", "Roblox Studio", "VS Code"],
-    building: [
-        "🎮 Immersive Roblox games",
-        "🤖 Advanced Discord bots",
-        "🧊 3D models in Blender",
-    ],
-    motto: "Automating the ordinary. ⚡",
-};
+```
+🇧🇷  Brazilian developer  ·  Automating the ordinary  ·  Building cool stuff since day one
 ```
 
+</div>
+
+<table>
+  <tr>
+    <td valign="top">
+
+> **`what i do`**
+>
+> 🎮 &nbsp; Design immersive **Roblox** games
+>
+> 🤖 &nbsp; Build advanced **Discord** bots
+>
+> 🧊 &nbsp; Create 3D models in **Blender**
+>
+> ⚡ &nbsp; Automate everything I can
+
 </td>
-    <td width="42%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/afporiginal/afporiginal/main/images/marin_kitagawa_sono_bisque_doll_png_render_by_marcopolo157_dgg94pj.png" width="300" alt="hey"/>
-    </td>
+    <td valign="top">
+
+> **`what i use`**
+>
+> 🐍 &nbsp; **Python** — bots, automation, APIs
+>
+> 🌙 &nbsp; **Lua** — Roblox scripting
+>
+> ⚡ &nbsp; **JavaScript** — web, Node.js
+>
+> 🧊 &nbsp; **Blender** — 3D modeling & render
+
+</td>
   </tr>
 </table>
 
