@@ -1,30 +1,20 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a0533,50:a855f7,75:00d4ff,100:0d1117&height=220&section=header&text=&fontSize=0"/>
 
-<!-- ============================================= -->
-<!-- 🎨 BANNER CUSTOMIZADO — SUBSTITUA COM O SEU  -->
-<!-- ============================================= -->
 <div align="center">
 
-<img src="[[https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1&section=header&text=&fontSize=0" width="100%](https://cdn.discordapp.com/attachments/1287467685424402474/1502304530254266418/marin_kitagawa_sono_bisque_doll_png_render_by_marcopolo157_dgg94pj.png?ex=69ff399f&is=69fde81f&hm=489af28e8e628575cda0a1781271ab8e9aee47552b4f953e4f738c0905ed0eea)](https://cdn.discordapp.com/attachments/1287467685424402474/1502304530254266418/marin_kitagawa_sono_bisque_doll_png_render_by_marcopolo157_dgg94pj.png?ex=69ff399f&is=69fde81f&hm=489af28e8e628575cda0a1781271ab8e9aee47552b4f953e4f738c0905ed0eea)"/>
-
-<br/>
-
 <!-- 
-  📌 INSTRUÇÃO: Coloque aqui a imagem do seu anime/personagem dando oi!
-  Tamanho recomendado: 200x200px até 350x350px
-  Formatos aceitos: PNG (com fundo transparente fica top), GIF, JPG
-  
-  ▶ Opção 1 — Upload direto no repo:
-    1. Faça upload da imagem na pasta "assets/" do seu repo afporiginal/afporiginal
-    2. Troque a URL abaixo por: ./assets/nome-da-imagem.png
-    
-  ▶ Opção 2 — Via GitHub Issues (hack):
-    1. Abra uma issue em qualquer repo seu
-    2. Arraste a imagem no campo de texto
-    3. Copie a URL gerada (https://github.com/user-attachments/assets/...)
-    4. Cole aqui embaixo
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  👋 AVATAR / ANIME — Cole o link da sua imagem aqui         ║
+  ║                                                              ║
+  ║  Como pegar o link:                                          ║
+  ║  • Discord: envie a imagem → botão direito → "Copiar link"  ║
+  ║  • Imgur: arraste a imagem em imgur.com → copie o link       ║
+  ║  • Qualquer URL de imagem funciona!                          ║
+  ║                                                              ║
+  ║  Troque COLE_O_LINK_DA_IMAGEM_AQUI pela URL                 ║
+  ╚══════════════════════════════════════════════════════════════╝
 -->
-<img src="https://via.placeholder.com/280x280/0d1117/a855f7?text=👋%0ASeu+Anime%0AAqui" width="280" style="border-radius: 20px;" alt="AFPL Anime Avatar"/>
+<img src="https://imgur.com/a/QowxHar" width="280" alt="AFPL Avatar"/>
 
 <br/><br/>
 
@@ -88,27 +78,14 @@ class AFPL {
 <br/>
 
 <!-- 
-  📌 INSTRUÇÃO: Coloque aqui um GIF ou imagem sua programando,
-  uma render 3D do Blender, ou qualquer arte que te represente.
-  
-  Tamanho recomendado: 400x400px
-  Formatos: GIF (fica mais vivo), PNG, JPG
-  
-  ▶ Para usar: substitua a URL abaixo
+  ╔══════════════════════════════════════════════════════╗
+  ║  🧊 RENDER 3D / IMAGEM LATERAL                      ║
+  ║  Cole o link de uma render do Blender ou qualquer    ║
+  ║  arte que te represente.                             ║
+  ║  Troque COLE_O_LINK_DA_RENDER_AQUI pela URL          ║
+  ╚══════════════════════════════════════════════════════╝
 -->
-<img src="https://via.placeholder.com/380x380/0d1117/00d4ff?text=🧊%0ARender+3D%0ABlender%0AAqui" width="380" style="border-radius: 16px;" alt="Blender 3D Render"/>
-
-<br/><br/>
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=a855f7&bar_color_cover=true" width="380" alt="Spotify"/>
-
-<!-- 
-  📌 SPOTIFY (opcional): Para mostrar o que está ouvindo:
-  1. Acesse https://spotify-github-profile.kittinanx.com/
-  2. Conecte seu Spotify
-  3. Substitua YOUR_SPOTIFY_ID pelo seu ID
-  4. Se não quiser, delete esse <img> acima
--->
+<img src="COLE_O_LINK_DA_RENDER_AQUI" width="380" alt="3D Render"/>
 
 </td>
 </tr>
@@ -199,68 +176,46 @@ class AFPL {
 <br/>
 
 <!-- 
-  📌 INSTRUÇÃO: GALERIA DE RENDERS 3D
-  
-  Coloque aqui suas melhores renders do Blender!
-  O layout abaixo cria uma grade 2x2 responsiva.
-  
-  Tamanho recomendado para cada imagem: 400x300px ou 500x400px
-  Formatos: PNG (melhor qualidade), JPG, GIF (para turntables/animações)
-  
-  ▶ Como adicionar:
-    1. Faça upload das imagens na pasta "assets/" do repo
-    2. Substitua cada URL de placeholder abaixo
-    3. Adicione/remova <td> conforme precisar
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  🎨 GALERIA DE RENDERS 3D                                       ║
+  ║                                                                  ║
+  ║  Cole os links das suas renders do Blender.                      ║
+  ║  Troque cada COLE_LINK_RENDER_XX pela URL da imagem.             ║
+  ║                                                                  ║
+  ║  • Quer mais ou menos imagens? Copie ou delete um bloco <td>.    ║
+  ║  • Quer só 2? Delete a segunda <tr> inteira.                     ║
+  ║  • Quer só 1? Delete a tabela toda e use um <img> simples.       ║
+  ╚══════════════════════════════════════════════════════════════════╝
 -->
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://via.placeholder.com/450x320/0d1117/a855f7?text=🧊%0ARender+01%0ASeu+modelo+3D" width="100%" style="border-radius: 12px;" alt="3D Render 1"/>
-<br/><sub><b>🎨 Nome do Projeto 01</b> — Modelagem + Render</sub>
+<img src="COLE_LINK_RENDER_01" width="100%" alt="3D Render 1"/>
+<br/><sub><b>🎨 Nome do Projeto</b> — Descrição curta</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://via.placeholder.com/450x320/0d1117/00d4ff?text=🧊%0ARender+02%0ASeu+modelo+3D" width="100%" style="border-radius: 12px;" alt="3D Render 2"/>
-<br/><sub><b>🎮 Nome do Projeto 02</b> — Game Asset</sub>
+<img src="COLE_LINK_RENDER_02" width="100%" alt="3D Render 2"/>
+<br/><sub><b>🎮 Nome do Projeto</b> — Descrição curta</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://via.placeholder.com/450x320/0d1117/ec4899?text=🧊%0ARender+03%0ASeu+modelo+3D" width="100%" style="border-radius: 12px;" alt="3D Render 3"/>
-<br/><sub><b>✨ Nome do Projeto 03</b> — Personagem</sub>
+<img src="COLE_LINK_RENDER_03" width="100%" alt="3D Render 3"/>
+<br/><sub><b>✨ Nome do Projeto</b> — Descrição curta</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://via.placeholder.com/450x320/0d1117/22c55e?text=🧊%0ARender+04%0ASeu+modelo+3D" width="100%" style="border-radius: 12px;" alt="3D Render 4"/>
-<br/><sub><b>🌍 Nome do Projeto 04</b> — Cenário</sub>
+<img src="COLE_LINK_RENDER_04" width="100%" alt="3D Render 4"/>
+<br/><sub><b>🌍 Nome do Projeto</b> — Descrição curta</sub>
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- 
-  📌 GIF DE TURNTABLE (opcional mas fica MUITO foda)
-  
-  No Blender: faça uma animação de câmera girando ao redor do modelo
-  Renderize como sequência de imagens e converta para GIF
-  Ou exporte como vídeo e converta em https://ezgif.com/
-  
-  Tamanho recomendado: 600x400px, max 10MB
--->
-
-<details>
-<summary>🔄 <b>Ver turntable / animação</b></summary>
-<br/>
-<img src="https://via.placeholder.com/600x400/0d1117/a855f7?text=🔄%0ATurntable+GIF%0AAnimação+360°%0Ado+seu+modelo" width="600" alt="Turntable Animation"/>
-<br/><br/>
-<sub>⬆️ Substitua pelo GIF do seu turntable — fica insano no perfil!</sub>
-</details>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ================= WHAT SETS ME APART ================= -->
+<!-- ================= WHAT DEFINES ME ================= -->
 
 ## ⚡ O que me define
 
@@ -437,7 +392,7 @@ Em **evolução constante** — de código a modelagem 3D, sempre subindo de ní
 <!-- ============================================= -->
 
 <details>
-<summary>🐍 <b>Como configurar a Snake Animation (GitHub Action)</b></summary>
+<summary>🐍 <b>Como configurar a Snake Animation</b></summary>
 
 <br/>
 
@@ -472,53 +427,43 @@ jobs:
 ```
 
 4. Faça commit e vá em **Actions** → **Generate Snake Animation** → **Run workflow**
-5. Pronto! A snake vai aparecer automaticamente no seu perfil 🐍
+5. Pronto! 🐍
 
 </details>
 
 <details>
-<summary>🖼️ <b>Como adicionar suas imagens customizadas</b></summary>
+<summary>🖼️ <b>Como colocar suas imagens (super fácil)</b></summary>
 
 <br/>
 
-### Método 1 — Pasta `assets/` (recomendado)
-1. No seu repo `afporiginal/afporiginal`, crie uma pasta chamada `assets/`
-2. Faça upload das suas imagens (avatar anime, renders 3D, banner, etc.)
-3. No README, use o caminho relativo: `./assets/nome-da-imagem.png`
+### Método mais fácil — Link do Discord
+1. Envie a imagem em **qualquer canal** do Discord
+2. **Botão direito** na imagem → **"Copiar link"**
+3. Você vai ter uma URL tipo: `https://cdn.discordapp.com/attachments/123/456/imagem.png`
+4. Cole essa URL no lugar de `COLE_O_LINK_...` no README
+5. Pronto!
 
-### Método 2 — Via GitHub Issues (hack rápido)
-1. Abra uma issue em qualquer repositório seu
-2. Arraste a imagem no campo de texto da issue
-3. O GitHub gera uma URL tipo: `https://github.com/user-attachments/assets/abc123...`
-4. Copie essa URL e cole no README
-5. Pode fechar a issue — a imagem continua hospedada!
+### Alternativa — Imgur
+1. Acesse [imgur.com](https://imgur.com)
+2. Arraste sua imagem na página
+3. Clique com **botão direito** na imagem → **"Copiar endereço da imagem"**
+4. Cole no README
 
-### Tamanhos recomendados
-| Local | Tamanho | Formato |
-|---|---|---|
-| Avatar/Anime | 280x280px | PNG (fundo transparente) |
-| Banner topo | 1200x300px | PNG ou GIF |
-| Renders 3D | 450x320px | PNG ou JPG |
-| Turntable GIF | 600x400px | GIF (max 10MB) |
-| Render lateral | 380x380px | PNG ou GIF |
+### ⚠️ Importante sobre links do Discord
+Links do Discord **expiram** depois de um tempo. Se a imagem parar de funcionar:
+- Use o **Imgur** (não expira nunca)
+- Ou envie a imagem num canal que você **não vai deletar**
 
-### 💡 Dica pro Blender
-Para renders com fundo transparente:
-- **Render Properties** → **Film** → ✅ **Transparent**
-- Salve como **PNG** (suporta alpha)
-- Use resolução 2x do tamanho final pra ficar nítido no GitHub
+### Onde estão os espaços no README
+Procure por estes textos e substitua pela URL:
 
-</details>
-
-<details>
-<summary>🎵 <b>Como configurar o Spotify (opcional)</b></summary>
-
-<br/>
-
-1. Acesse [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com/)
-2. Conecte sua conta do Spotify
-3. Copie o link gerado
-4. Substitua o bloco do Spotify no README
-5. Seu perfil vai mostrar o que você tá ouvindo em tempo real! 🎶
+| Procurar por | O que colocar |
+|---|---|
+| `COLE_O_LINK_DA_IMAGEM_AQUI` | Seu anime/avatar dando oi 👋 |
+| `COLE_O_LINK_DA_RENDER_AQUI` | Uma render 3D do Blender 🧊 |
+| `COLE_LINK_RENDER_01` | Render 3D #1 da galeria 🎨 |
+| `COLE_LINK_RENDER_02` | Render 3D #2 da galeria |
+| `COLE_LINK_RENDER_03` | Render 3D #3 da galeria |
+| `COLE_LINK_RENDER_04` | Render 3D #4 da galeria |
 
 </details>
